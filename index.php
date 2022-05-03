@@ -54,7 +54,7 @@ require 'connect.php';
         ?>
     </table>
     <h3>Add new person</h3>
-    <form action="create.php, age.php" method="post">
+    <form action="create.php" method="post">
         <p>Name</p>
         <input type="text" name="name">
         <p>Surname</p>
